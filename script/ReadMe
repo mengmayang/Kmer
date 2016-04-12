@@ -1,0 +1,3 @@
+cal_distance_I:basic law of cosines
+cal_distance_II:basic law of cosines + BLAS
+cal_distance_III:basic law of cosines + BLAS + GPU

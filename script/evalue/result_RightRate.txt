@@ -1,0 +1,6 @@
+RESULT:
+predict:../cal_distance_I/result
+metadata_dir:../simu
+Right Count:0
+Total reads:20000
+Right Rate:0

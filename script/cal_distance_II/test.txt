@@ -1,0 +1,3 @@
+I am a test txt file for C
+Please read me by C program
+Thank you

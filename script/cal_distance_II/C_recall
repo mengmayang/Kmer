@@ -1,0 +1,3 @@
+vi test00.c
+gcc -o test00.out test00.c
+gcc -o main test00.c ~/src/software/CBLAS/lib/cblas_LINUX.a ~/src/software/BLAS-3.6.0/blas_LINUX.a -I ./ -lgfortran

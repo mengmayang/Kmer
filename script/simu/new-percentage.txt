@@ -1,0 +1,10 @@
+Acaryochloris marina MBIC11017 chromosome	0.09459
+Acetobacterium woodii DSM 1030 chromosome	0.05883
+Acetohalobium arabaticum DSM 5501 chromosome	0.07183
+Acholeplasma laidlawii PG-8A chromosome	0.04354
+Achromobacter xylosoxidans A8 chromosome	0.40798
+Acidaminococcus fermentans DSM 20731 chromosome	0.13553
+Acidaminococcus intestini RyC-MR95 chromosome	0.07236
+Acidianus hospitalis W1 chromosome	0.06218
+Acidilobus saccharovorans 345-15 chromosome	0.02176
+Acidimicrobium ferrooxidans DSM 10331 chromosome	0.03139

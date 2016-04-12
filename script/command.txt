@@ -1,0 +1,22 @@
+3.14 17:02 nohup perl main.pl NC_length.txt 1 3 4 &
+3.14 17:13 nohup perl main.pl NC_length.txt 4 10 4 &
+3.14 18:32 nohup perl main.pl NC_length.txt 11 50 4 &
+3.15 20:15 nohup perl main.pl NC_length.txt 51 100 4 &
+3.15 20:20 nohup perl main.pl NC_length.txt 1 100 6 &
+3.16 15:53 nohup perl main.pl NC_length.txt 101 110 6 &
+3.16 15:53 nohup perl main.pl NC_length.txt 111 150 6 &
+3.16 15:53 nohup perl main.pl NC_length.txt 151 200 6 &
+3.17 13:07 nohup perl main.pl NC_length.txt 201 300 6 &
+3.17 13:07 nohup perl main.pl NC_length.txt 301 400 6 &
+3.17 13:07 nohup perl main.pl NC_length.txt 401 500 6 &
+3.17 13:07 nohup perl main.pl NC_length.txt 501 600 6 &
+3.18 17:05 nohup perl main.pl NC_length.txt 601 800 6 &
+3.18 17:05 nohup perl main.pl NC_length.txt 801 1000 6 &
+3.21 10:50 nohup perl main.pl NC_length.txt 1001 1300 6 & x(somthing wrong)
+3.21 10:50 nohup perl main.pl NC_length.txt 1301 1600 6 & x(somthing wrong)
+3.21 10:50 nohup perl main.pl NC_length.txt 1601 2000 6 & x(somthing wrong)
+3.22 20:36 nohup perl main.pl NC_length.txt 1001 1030 6 &
+3.24 14:58 nohup perl main.pl NC_length.txt 1001 3000 6 &
+3.24 17:59 nohup perl main.pl NC_length.txt 3001 4000 6 &
+3.24 17:59 nohup perl main.pl NC_length.txt 4001 5000 6 &
+3.24 17:59 nohup perl main.pl NC_length.txt 5001 6000 6 &
