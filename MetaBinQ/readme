@@ -1,1 +1,10 @@
 This directory contains all main script of MetaBinQ version 0.1
+
+build DB of MetaBinQ:
+build_MetaBinQ_db.pl(call build_ref_pm.pl)  
+build_ref_pm.pl  
+Name_tax_information_0912.txt
+
+Source Code of MetaBinQ:
+cal_distance_I_C.c(depend on read_genome_matrix.c)
+read_genome_matrix.c
